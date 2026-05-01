@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bash Script Backend"
+  short_description: "Portable Bash scripts with cleanup tests"
+  default_prompt: "Use $skill-backend-sh to create a portable Bash script with test.sh validation and cleanup."

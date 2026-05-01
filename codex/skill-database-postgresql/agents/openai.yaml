@@ -1,0 +1,4 @@
+interface:
+  display_name: "PostgreSQL Database"
+  short_description: "PostgreSQL schema, query, and Flyway work"
+  default_prompt: "Use $skill-database-postgresql to design PostgreSQL schemas, optimize SQL, or write Flyway migrations."

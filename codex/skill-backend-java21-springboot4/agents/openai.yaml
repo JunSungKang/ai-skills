@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java Spring Boot Backend"
+  short_description: "Java 21 Spring Boot 4 API backend work"
+  default_prompt: "Use $skill-backend-java21-springboot4 to design or implement a Java 21 Spring Boot 4 API backend."

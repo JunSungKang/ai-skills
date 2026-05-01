@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Conflict Resolve"
+  short_description: "Resolve PR conflicts with guarded validation"
+  default_prompt: "Use $skill-git-conflict-resolve to analyze PR merge conflicts, resolve safe ones, run final validation, then commit and push."

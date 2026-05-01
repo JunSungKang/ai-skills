@@ -1,0 +1,4 @@
+interface:
+  display_name: "React Vite Frontend"
+  short_description: "React 19 TypeScript Vite frontend work"
+  default_prompt: "Use $skill-frontend-react-vite to implement or refine a React 19 TypeScript Vite frontend."

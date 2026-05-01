@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ubuntu Infra"
+  short_description: "Ubuntu 24.04 server build operations"
+  default_prompt: "Use $skill-infra-ubuntu to prepare a production-ready Ubuntu 24.04 server baseline."

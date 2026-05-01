@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Commit Push"
+  short_description: "Automate Korean Git commits and GitHub push"
+  default_prompt: "Use $skill-git-commit to commit current project changes with a Korean rule-based message and push to GitHub."
